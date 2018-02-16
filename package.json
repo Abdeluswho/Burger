@@ -1,22 +1,21 @@
 {
-  "name": "burger",
+  "name": "eatdaburger",
   "version": "1.0.0",
-  "description": "burger logger!",
-  "main": "server.js",
+  "description": "Eats Burgers",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abdeluswho/Burger.git"
+    "url": "git+https://github.com/BSG-1/EatDaBurger.git"
   },
-  "author": "@Abdulus",
+  "author": "Bahadur Singh Ghataorhe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abdeluswho/Burger/issues"
+    "url": "https://github.com/BSG-1/EatDaBurger/issues"
   },
-  "homepage": "https://github.com/Abdeluswho/Burger#readme",
+  "homepage": "https://github.com/BSG-1/EatDaBurger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
